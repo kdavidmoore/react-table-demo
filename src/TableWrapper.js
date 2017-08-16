@@ -37,7 +37,7 @@ class TableWrapper extends Component {
         accessor: 'make',
       },
       {
-        Header: 'Modal',
+        Header: 'Model',
         accessor: 'model',
       },
       {
