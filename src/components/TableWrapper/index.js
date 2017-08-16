@@ -29,6 +29,12 @@ class TableWrapper extends Component {
         color: 'white',
         id: 2,
       },
+      {
+        make: 'Chevrolet',
+        model: 'Colorado',
+        color: 'red',
+        id: 3,
+      },
     ];
 
     const columns = [
