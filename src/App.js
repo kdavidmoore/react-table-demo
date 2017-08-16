@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import 'react-table/react-table.css'
-import TableWrapper from './TableWrapper';
+import TableWrapper from './components/TableWrapper';
 import logo from './logo.svg';
 import './App.css';
 
